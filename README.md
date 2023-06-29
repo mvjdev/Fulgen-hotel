@@ -1,6 +1,7 @@
 # Fulgen-hotel
 Hotel database implementation
 ```
+
 ## Cahier de charge (client et prestataire)
 ### Gestion des réservations :
 .Les clients peuvent réserver des chambres d'hôtel.
@@ -32,4 +33,5 @@ Hotel database implementation
 .La réduction appliquée peut varier en fonction des décisions de l'hôtel.
 .Les réceptionnistes doivent avoir un compte pour accéder au système.
 .L'horaire de travail des réceptionnistes est lié à la réception des paiements des clients.
+
 ```
