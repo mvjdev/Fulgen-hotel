@@ -1,6 +1,3 @@
-# Fulgen-hotel
-Hotel database implementation
-
 # Cahier de charge (client et prestataire)
 
 ## Gestion des réservations :
